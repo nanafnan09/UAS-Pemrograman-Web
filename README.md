@@ -9,6 +9,7 @@ Aplikasi berbasis web untuk memanajemen stok barang (Inventaris) yang dibangun m
 * **NIM**: 312410518
 * **Kelas**: TI24.A5
 * **Mata Kuliah**: Pemrograman Web
+* **Youtube**: 
 
 ---
 
@@ -170,5 +171,9 @@ Password : Admin123
 ![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/3d646540e83363ef2b024309f7b6465db2821b88/Pict%20UAS%20Pemrograman%20Web/1.png)
 
 # Dashboard
+
+![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/34578f4273dbf30e86130176fdccd1564f623d2b/Pict%20UAS%20Pemrograman%20Web/2.png)
+
+# Input Item
 
 
