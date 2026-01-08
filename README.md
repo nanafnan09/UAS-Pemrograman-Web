@@ -160,3 +160,11 @@ Gunakan akun berikut untuk masuk ke dalam sistem:
 User : Admin
 
 Password : Admin123
+
+7. UI
+
+![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/f75eafe33cbf8c587b2dee2b09ce3c0019de4948/Pict%20UAS%20Pemrograman%20Web/Cuplikan%20layar%202026-01-08%20135957.png)
+
+# Tampilan Login 
+
+![Foto]()
