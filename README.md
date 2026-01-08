@@ -9,7 +9,7 @@ Aplikasi berbasis web untuk memanajemen stok barang (Inventaris) yang dibangun m
 * **NIM**: 312410518
 * **Kelas**: TI24.A5
 * **Mata Kuliah**: Pemrograman Web
-* **Youtube**: 
+* **Youtube**: [click](https://youtu.be/KvMd5jWEwCI)
 
 ---
 
