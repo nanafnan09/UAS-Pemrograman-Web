@@ -162,7 +162,7 @@ User : Admin
 
 Password : Admin123
 
-7. UI
+7. UI Admin
 
 ![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/f75eafe33cbf8c587b2dee2b09ce3c0019de4948/Pict%20UAS%20Pemrograman%20Web/Cuplikan%20layar%202026-01-08%20135957.png)
 
@@ -175,5 +175,9 @@ Password : Admin123
 ![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/34578f4273dbf30e86130176fdccd1564f623d2b/Pict%20UAS%20Pemrograman%20Web/2.png)
 
 # Input Item
+
+![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/0e95a0c5d0876cf8ffe0f57166b95d296ce271d9/Pict%20UAS%20Pemrograman%20Web/Cuplikan%20layar%202026-01-08%20191701.png)
+
+# UI User
 
 
