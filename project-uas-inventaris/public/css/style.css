@@ -1,0 +1,130 @@
+/* Import Font Modern (Poppins) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+:root {
+    --primary-color: #4e73df;
+    --secondary-color: #858796;
+    --success-color: #1cc88a;
+    --danger-color: #e74a3b;
+    --dark-bg: #f8f9fc;
+    --card-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--dark-bg);
+    color: #5a5c69;
+    overflow-x: hidden;
+}
+
+/* --- Navbar Styling --- */
+.navbar {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    padding: 1rem 0;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 1.4rem;
+}
+
+.nav-link, .navbar-text {
+    font-weight: 500;
+}
+
+/* --- Card & Container Styling --- */
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.2s;
+    background-color: #fff;
+}
+
+/* Efek hover pada card login */
+.login-card:hover {
+    transform: translateY(-5px);
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #e3e6f0;
+    font-weight: 600;
+    color: #4e73df;
+    border-radius: 15px 15px 0 0 !important;
+    padding: 1.2rem;
+}
+
+/* --- Form Input Styling --- */
+.form-control {
+    border-radius: 10px;
+    height: 45px;
+    border: 1px solid #d1d3e2;
+    padding: 0.375rem 1rem;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(78, 115, 223, 0.25);
+    border-color: #bac8f3;
+}
+
+/* --- Button Styling --- */
+.btn {
+    border-radius: 10px;
+    padding: 0.5rem 1.2rem;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: #2e59d9;
+    box-shadow: 0 4px 12px rgba(78, 115, 223, 0.4);
+}
+
+/* --- Table Styling --- */
+.table-container {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: var(--card-shadow);
+}
+
+.table thead th {
+    background-color: #4e73df;
+    color: white;
+    border: none;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.5px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f8f9fc;
+    transform: scale(1.005);
+    transition: all 0.2s;
+}
+
+/* --- Pagination --- */
+.page-link {
+    border-radius: 50% !important;
+    margin: 0 3px;
+    color: var(--primary-color);
+    border: none;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.page-item.active .page-link {
+    background-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(78, 115, 223, 0.4);
+}
