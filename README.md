@@ -167,4 +167,8 @@ Password : Admin123
 
 # Tampilan Login 
 
-![Foto]()
+![Foto](https://github.com/nanafnan09/UAS-Pemrograman-Web/blob/3d646540e83363ef2b024309f7b6465db2821b88/Pict%20UAS%20Pemrograman%20Web/1.png)
+
+# Dashboard
+
+
